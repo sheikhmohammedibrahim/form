@@ -1,5 +1,6 @@
 .bodypic {
-  background-image: url(img/sea.gif);
+  background-image: url(../Img/sea.gif);
+  background-attachment: fixed;
 
   /*background-repeat: no-repeat;*/
   background-position: top;
